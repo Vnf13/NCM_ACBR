@@ -1,0 +1,458 @@
+05/11/24 13:21:28:705 - TLibNCMsConfig.AplicarConfiguracoes: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 13:21:28:706 - Travar
+05/11/24 13:21:28:706 - Travar
+05/11/24 13:21:28:706 - TLibNCMsConfig.Gravar: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 13:21:28:708 - TLibNCMsConfig.Gravar - Feito
+05/11/24 13:21:28:708 - Destravar
+05/11/24 13:21:28:708 - TLibNCMsConfig.AplicarConfiguracoes - Feito
+05/11/24 13:21:28:708 - Destravar
+05/11/24 13:21:28:708 - TLibNCMsConfig.Ler - Feito
+05/11/24 13:21:28:709 - Destravar
+05/11/24 13:21:28:709 - LIB_Inicializar( C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini,  )
+05/11/24 13:21:28:709 -    ACBrLibNCMs - 1.1.2.203
+05/11/24 13:21:28:888 - TACBrLibNCMs.PrecisaCriptografar(Principal,LogNivel)
+05/11/24 13:21:28:888 - TACBrLibNCMs.PrecisaCriptografar - Feito Result: False
+05/11/24 13:21:28:888 - LIB_ConfigGravarValor(Principal, LogNivel, 4)
+05/11/24 13:21:28:889 - TACBrLibNCMs.PrecisaCriptografar(Principal,LogNivel)
+05/11/24 13:21:28:889 - TACBrLibNCMs.PrecisaCriptografar - Feito Result: False
+05/11/24 13:21:28:889 - TLibNCMsConfig.AjustarValor(tfGravar,Principal,LogNivel,4)
+05/11/24 13:21:28:890 - TLibNCMsConfig.AjustarValor - Feito
+05/11/24 13:21:28:890 - TLibNCMsConfig.AplicarConfiguracoes: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 13:21:28:890 - Travar
+05/11/24 13:21:28:890 - Travar
+05/11/24 13:21:28:890 - TLibNCMsConfig.Gravar: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 13:21:28:892 - TLibNCMsConfig.Gravar - Feito
+05/11/24 13:21:28:893 - Destravar
+05/11/24 13:21:28:893 - TLibNCMsConfig.AplicarConfiguracoes - Feito
+05/11/24 13:21:28:893 - Destravar
+05/11/24 13:21:28:893 -    SetRetorno(0, )
+05/11/24 13:21:28:893 - TACBrLibNCMs.PrecisaCriptografar(Principal,LogPath)
+05/11/24 13:21:28:893 - TACBrLibNCMs.PrecisaCriptografar - Feito Result: False
+05/11/24 13:21:28:893 - LIB_ConfigGravarValor(Principal, LogPath, C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\Log)
+05/11/24 13:21:28:894 - TACBrLibNCMs.PrecisaCriptografar(Principal,LogPath)
+05/11/24 13:21:28:894 - TACBrLibNCMs.PrecisaCriptografar - Feito Result: False
+05/11/24 13:21:28:894 - TLibNCMsConfig.AjustarValor(tfGravar,Principal,LogPath,C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\Log)
+05/11/24 13:21:28:894 - TLibNCMsConfig.AjustarValor - Feito
+05/11/24 13:21:28:894 - TLibNCMsConfig.AplicarConfiguracoes: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 13:21:28:894 - Travar
+05/11/24 13:21:28:895 - Travar
+05/11/24 13:21:28:895 - TLibNCMsConfig.Gravar: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 13:21:28:896 - TLibNCMsConfig.Gravar - Feito
+05/11/24 13:21:28:896 - Destravar
+05/11/24 13:21:28:896 - TLibNCMsConfig.AplicarConfiguracoes - Feito
+05/11/24 13:21:28:896 - Destravar
+05/11/24 13:21:28:896 -    SetRetorno(0, )
+05/11/24 13:21:28:897 - LIB_ConfigGravar()
+05/11/24 13:21:28:897 - Travar
+05/11/24 13:21:28:897 - TLibNCMsConfig.Gravar: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 13:21:28:900 - TLibNCMsConfig.Gravar - Feito
+05/11/24 13:21:28:900 - Destravar
+05/11/24 13:21:28:900 -    SetRetorno(0, )
+05/11/24 13:21:30:703 - NCM_ObterNCMs
+05/11/24 13:21:30:704 - Travar
+05/11/24 13:21:31:235 -    MoverStringParaPChar. StrLen:24, BufLen:256
+05/11/24 13:21:31:235 -    SetRetorno(0, Lista de NCMs atualizada)
+05/11/24 13:21:31:235 - Destravar
+05/11/24 13:21:33:972 - NCM_BaixarLista( C:\temp\NCMs.txt )
+05/11/24 13:21:33:972 - Travar
+05/11/24 13:21:34:579 - Destravar
+05/11/24 13:21:34:595 -    SetRetorno(-10, Unable to create file "C:\temp\NCMs.txt": O sistema não pode encontrar o caminho especificado.)
+05/11/24 13:21:34:595 - LIB_UltimoRetorno
+05/11/24 13:21:34:595 -    MoverStringParaPChar. StrLen:95, BufLen:256
+05/11/24 13:21:34:595 -    Codigo:-10, Mensagem:Unable to create file "C:\temp\NCMs.txt": O sistema n[195][163]o pode encontrar o caminho especificado.
+05/11/24 13:21:57:861 - TACBrLibNCMs.PrecisaCriptografar(Principal,LogNivel)
+05/11/24 13:21:57:862 - TACBrLibNCMs.PrecisaCriptografar - Feito Result: False
+05/11/24 13:21:57:862 - LIB_ConfigGravarValor(Principal, LogNivel, 4)
+05/11/24 13:21:57:862 - TACBrLibNCMs.PrecisaCriptografar(Principal,LogNivel)
+05/11/24 13:21:57:862 - TACBrLibNCMs.PrecisaCriptografar - Feito Result: False
+05/11/24 13:21:57:862 - TLibNCMsConfig.AjustarValor(tfGravar,Principal,LogNivel,4)
+05/11/24 13:21:57:862 - TLibNCMsConfig.AjustarValor - Feito
+05/11/24 13:21:57:863 - TLibNCMsConfig.AplicarConfiguracoes: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 13:21:57:863 - Travar
+05/11/24 13:21:57:863 - Travar
+05/11/24 13:21:57:863 - TLibNCMsConfig.Gravar: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 13:21:57:865 - TLibNCMsConfig.Gravar - Feito
+05/11/24 13:21:57:865 - Destravar
+05/11/24 13:21:57:865 - TLibNCMsConfig.AplicarConfiguracoes - Feito
+05/11/24 13:21:57:866 - Destravar
+05/11/24 13:21:57:866 -    SetRetorno(0, )
+05/11/24 13:21:57:866 - TACBrLibNCMs.PrecisaCriptografar(Principal,LogPath)
+05/11/24 13:21:57:866 - TACBrLibNCMs.PrecisaCriptografar - Feito Result: False
+05/11/24 13:21:57:867 - LIB_ConfigGravarValor(Principal, LogPath, C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\Log)
+05/11/24 13:21:57:867 - TACBrLibNCMs.PrecisaCriptografar(Principal,LogPath)
+05/11/24 13:21:57:867 - TACBrLibNCMs.PrecisaCriptografar - Feito Result: False
+05/11/24 13:21:57:867 - TLibNCMsConfig.AjustarValor(tfGravar,Principal,LogPath,C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\Log)
+05/11/24 13:21:57:868 - TLibNCMsConfig.AjustarValor - Feito
+05/11/24 13:21:57:868 - TLibNCMsConfig.AplicarConfiguracoes: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 13:21:57:868 - Travar
+05/11/24 13:21:57:869 - Travar
+05/11/24 13:21:57:869 - TLibNCMsConfig.Gravar: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 13:21:57:872 - TLibNCMsConfig.Gravar - Feito
+05/11/24 13:21:57:873 - Destravar
+05/11/24 13:21:57:873 - TLibNCMsConfig.AplicarConfiguracoes - Feito
+05/11/24 13:21:57:873 - Destravar
+05/11/24 13:21:57:873 -    SetRetorno(0, )
+05/11/24 13:21:57:874 - LIB_ConfigGravar()
+05/11/24 13:21:57:874 - Travar
+05/11/24 13:21:57:874 - TLibNCMsConfig.Gravar: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 13:21:57:877 - TLibNCMsConfig.Gravar - Feito
+05/11/24 13:21:57:877 - Destravar
+05/11/24 13:21:57:878 -    SetRetorno(0, )
+05/11/24 13:21:59:268 - NCM_BaixarLista( C:\temp\NCMs.txt )
+05/11/24 13:21:59:268 - Travar
+05/11/24 13:21:59:977 -    MoverStringParaPChar. StrLen:34, BufLen:256
+05/11/24 13:21:59:977 -    SetRetorno(0, Arquivo salvo em: C:\temp\NCMs.txt)
+05/11/24 13:21:59:978 - Destravar
+05/11/24 13:22:06:537 - TLibNCMsConfig.AplicarConfiguracoes: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 13:22:06:537 - Travar
+05/11/24 13:22:06:539 - Travar
+05/11/24 13:22:06:539 - TLibNCMsConfig.Gravar: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 13:22:06:540 - TLibNCMsConfig.Gravar - Feito
+05/11/24 13:22:06:540 - Destravar
+05/11/24 13:22:06:541 - TLibNCMsConfig.AplicarConfiguracoes - Feito
+05/11/24 13:22:06:541 - Destravar
+05/11/24 13:22:06:541 - TLibNCMsConfig.Ler - Feito
+05/11/24 13:22:06:541 - Destravar
+05/11/24 13:22:06:541 - LIB_Inicializar( C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini,  )
+05/11/24 13:22:06:541 -    ACBrLibNCMs - 1.1.2.203
+05/11/24 13:22:06:696 - TACBrLibNCMs.PrecisaCriptografar(Principal,LogNivel)
+05/11/24 13:22:06:696 - TACBrLibNCMs.PrecisaCriptografar - Feito Result: False
+05/11/24 13:22:06:697 - LIB_ConfigGravarValor(Principal, LogNivel, 4)
+05/11/24 13:22:06:697 - TACBrLibNCMs.PrecisaCriptografar(Principal,LogNivel)
+05/11/24 13:22:06:697 - TACBrLibNCMs.PrecisaCriptografar - Feito Result: False
+05/11/24 13:22:06:697 - TLibNCMsConfig.AjustarValor(tfGravar,Principal,LogNivel,4)
+05/11/24 13:22:06:697 - TLibNCMsConfig.AjustarValor - Feito
+05/11/24 13:22:06:698 - TLibNCMsConfig.AplicarConfiguracoes: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 13:22:06:698 - Travar
+05/11/24 13:22:06:698 - Travar
+05/11/24 13:22:06:698 - TLibNCMsConfig.Gravar: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 13:22:06:700 - TLibNCMsConfig.Gravar - Feito
+05/11/24 13:22:06:700 - Destravar
+05/11/24 13:22:06:700 - TLibNCMsConfig.AplicarConfiguracoes - Feito
+05/11/24 13:22:06:700 - Destravar
+05/11/24 13:22:06:700 -    SetRetorno(0, )
+05/11/24 13:22:06:701 - TACBrLibNCMs.PrecisaCriptografar(Principal,LogPath)
+05/11/24 13:22:06:701 - TACBrLibNCMs.PrecisaCriptografar - Feito Result: False
+05/11/24 13:22:06:701 - LIB_ConfigGravarValor(Principal, LogPath, C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\Log)
+05/11/24 13:22:06:702 - TACBrLibNCMs.PrecisaCriptografar(Principal,LogPath)
+05/11/24 13:22:06:702 - TACBrLibNCMs.PrecisaCriptografar - Feito Result: False
+05/11/24 13:22:06:702 - TLibNCMsConfig.AjustarValor(tfGravar,Principal,LogPath,C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\Log)
+05/11/24 13:22:06:702 - TLibNCMsConfig.AjustarValor - Feito
+05/11/24 13:22:06:702 - TLibNCMsConfig.AplicarConfiguracoes: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 13:22:06:703 - Travar
+05/11/24 13:22:06:703 - Travar
+05/11/24 13:22:06:704 - TLibNCMsConfig.Gravar: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 13:22:06:705 - TLibNCMsConfig.Gravar - Feito
+05/11/24 13:22:06:706 - Destravar
+05/11/24 13:22:06:706 - TLibNCMsConfig.AplicarConfiguracoes - Feito
+05/11/24 13:22:06:706 - Destravar
+05/11/24 13:22:06:706 -    SetRetorno(0, )
+05/11/24 13:22:06:706 - LIB_ConfigGravar()
+05/11/24 13:22:06:707 - Travar
+05/11/24 13:22:06:707 - TLibNCMsConfig.Gravar: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 13:22:06:708 - TLibNCMsConfig.Gravar - Feito
+05/11/24 13:22:06:708 - Destravar
+05/11/24 13:22:06:709 -    SetRetorno(0, )
+05/11/24 13:22:08:037 - NCM_BaixarLista( C:\temp\NCMs.txt )
+05/11/24 13:22:08:037 - Travar
+05/11/24 13:22:08:768 -    MoverStringParaPChar. StrLen:34, BufLen:256
+05/11/24 13:22:08:768 -    SetRetorno(0, Arquivo salvo em: C:\temp\NCMs.txt)
+05/11/24 13:22:08:772 - Destravar
+05/11/24 13:22:19:331 - TACBrLibNCMs.PrecisaCriptografar(Principal,LogNivel)
+05/11/24 13:22:19:331 - TACBrLibNCMs.PrecisaCriptografar - Feito Result: False
+05/11/24 13:22:19:332 - LIB_ConfigGravarValor(Principal, LogNivel, 4)
+05/11/24 13:22:19:332 - TACBrLibNCMs.PrecisaCriptografar(Principal,LogNivel)
+05/11/24 13:22:19:332 - TACBrLibNCMs.PrecisaCriptografar - Feito Result: False
+05/11/24 13:22:19:332 - TLibNCMsConfig.AjustarValor(tfGravar,Principal,LogNivel,4)
+05/11/24 13:22:19:333 - TLibNCMsConfig.AjustarValor - Feito
+05/11/24 13:22:19:333 - TLibNCMsConfig.AplicarConfiguracoes: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 13:22:19:333 - Travar
+05/11/24 13:22:19:333 - Travar
+05/11/24 13:22:19:334 - TLibNCMsConfig.Gravar: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 13:22:19:336 - TLibNCMsConfig.Gravar - Feito
+05/11/24 13:22:19:336 - Destravar
+05/11/24 13:22:19:336 - TLibNCMsConfig.AplicarConfiguracoes - Feito
+05/11/24 13:22:19:336 - Destravar
+05/11/24 13:22:19:336 -    SetRetorno(0, )
+05/11/24 13:22:19:337 - TACBrLibNCMs.PrecisaCriptografar(Principal,LogPath)
+05/11/24 13:22:19:337 - TACBrLibNCMs.PrecisaCriptografar - Feito Result: False
+05/11/24 13:22:19:337 - LIB_ConfigGravarValor(Principal, LogPath, C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\Log)
+05/11/24 13:22:19:337 - TACBrLibNCMs.PrecisaCriptografar(Principal,LogPath)
+05/11/24 13:22:19:338 - TACBrLibNCMs.PrecisaCriptografar - Feito Result: False
+05/11/24 13:22:19:338 - TLibNCMsConfig.AjustarValor(tfGravar,Principal,LogPath,C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\Log)
+05/11/24 13:22:19:338 - TLibNCMsConfig.AjustarValor - Feito
+05/11/24 13:22:19:338 - TLibNCMsConfig.AplicarConfiguracoes: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 13:22:19:338 - Travar
+05/11/24 13:22:19:338 - Travar
+05/11/24 13:22:19:339 - TLibNCMsConfig.Gravar: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 13:22:19:340 - TLibNCMsConfig.Gravar - Feito
+05/11/24 13:22:19:341 - Destravar
+05/11/24 13:22:19:341 - TLibNCMsConfig.AplicarConfiguracoes - Feito
+05/11/24 13:22:19:341 - Destravar
+05/11/24 13:22:19:341 -    SetRetorno(0, )
+05/11/24 13:22:19:342 - LIB_ConfigGravar()
+05/11/24 13:22:19:342 - Travar
+05/11/24 13:22:19:342 - TLibNCMsConfig.Gravar: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 13:22:19:344 - TLibNCMsConfig.Gravar - Feito
+05/11/24 13:22:19:344 - Destravar
+05/11/24 13:22:19:344 -    SetRetorno(0, )
+05/11/24 13:22:30:396 - NCM_ObterNCMs
+05/11/24 13:22:30:396 - Travar
+05/11/24 13:22:30:929 -    MoverStringParaPChar. StrLen:24, BufLen:256
+05/11/24 13:22:30:929 -    SetRetorno(0, Lista de NCMs atualizada)
+05/11/24 13:22:30:929 - Destravar
+05/11/24 13:23:32:203 - TACBrLibNCMs.PrecisaCriptografar(Principal,LogNivel)
+05/11/24 13:23:32:203 - TACBrLibNCMs.PrecisaCriptografar - Feito Result: False
+05/11/24 13:23:32:204 - LIB_ConfigGravarValor(Principal, LogNivel, 4)
+05/11/24 13:23:32:204 - TACBrLibNCMs.PrecisaCriptografar(Principal,LogNivel)
+05/11/24 13:23:32:204 - TACBrLibNCMs.PrecisaCriptografar - Feito Result: False
+05/11/24 13:23:32:204 - TLibNCMsConfig.AjustarValor(tfGravar,Principal,LogNivel,4)
+05/11/24 13:23:32:205 - TLibNCMsConfig.AjustarValor - Feito
+05/11/24 13:23:32:205 - TLibNCMsConfig.AplicarConfiguracoes: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 13:23:32:205 - Travar
+05/11/24 13:23:32:205 - Travar
+05/11/24 13:23:32:206 - TLibNCMsConfig.Gravar: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 13:23:32:208 - TLibNCMsConfig.Gravar - Feito
+05/11/24 13:23:32:208 - Destravar
+05/11/24 13:23:32:208 - TLibNCMsConfig.AplicarConfiguracoes - Feito
+05/11/24 13:23:32:208 - Destravar
+05/11/24 13:23:32:208 -    SetRetorno(0, )
+05/11/24 13:23:32:209 - TACBrLibNCMs.PrecisaCriptografar(Principal,LogPath)
+05/11/24 13:23:32:209 - TACBrLibNCMs.PrecisaCriptografar - Feito Result: False
+05/11/24 13:23:32:209 - LIB_ConfigGravarValor(Principal, LogPath, C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\Log)
+05/11/24 13:23:32:209 - TACBrLibNCMs.PrecisaCriptografar(Principal,LogPath)
+05/11/24 13:23:32:209 - TACBrLibNCMs.PrecisaCriptografar - Feito Result: False
+05/11/24 13:23:32:209 - TLibNCMsConfig.AjustarValor(tfGravar,Principal,LogPath,C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\Log)
+05/11/24 13:23:32:210 - TLibNCMsConfig.AjustarValor - Feito
+05/11/24 13:23:32:210 - TLibNCMsConfig.AplicarConfiguracoes: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 13:23:32:210 - Travar
+05/11/24 13:23:32:210 - Travar
+05/11/24 13:23:32:210 - TLibNCMsConfig.Gravar: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 13:23:32:212 - TLibNCMsConfig.Gravar - Feito
+05/11/24 13:23:32:212 - Destravar
+05/11/24 13:23:32:212 - TLibNCMsConfig.AplicarConfiguracoes - Feito
+05/11/24 13:23:32:212 - Destravar
+05/11/24 13:23:32:212 -    SetRetorno(0, )
+05/11/24 13:23:32:213 - LIB_ConfigGravar()
+05/11/24 13:23:32:213 - Travar
+05/11/24 13:23:32:213 - TLibNCMsConfig.Gravar: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 13:23:32:214 - TLibNCMsConfig.Gravar - Feito
+05/11/24 13:23:32:214 - Destravar
+05/11/24 13:23:32:214 -    SetRetorno(0, )
+05/11/24 13:23:36:684 - NCM_BaixarLista( C:\temp\NCMs.txt )
+05/11/24 13:23:36:684 - Travar
+05/11/24 13:23:37:409 -    MoverStringParaPChar. StrLen:34, BufLen:256
+05/11/24 13:23:37:409 -    SetRetorno(0, Arquivo salvo em: C:\temp\NCMs.txt)
+05/11/24 13:23:37:409 - Destravar
+05/11/24 13:26:33:089 - TLibNCMsConfig.AplicarConfiguracoes: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 13:26:33:089 - Travar
+05/11/24 13:26:33:090 - Travar
+05/11/24 13:26:33:090 - TLibNCMsConfig.Gravar: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 13:26:33:091 - TLibNCMsConfig.Gravar - Feito
+05/11/24 13:26:33:091 - Destravar
+05/11/24 13:26:33:092 - TLibNCMsConfig.AplicarConfiguracoes - Feito
+05/11/24 13:26:33:092 - Destravar
+05/11/24 13:26:33:092 - TLibNCMsConfig.Ler - Feito
+05/11/24 13:26:33:092 - Destravar
+05/11/24 13:26:33:092 - LIB_Inicializar( C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini,  )
+05/11/24 13:26:33:092 -    ACBrLibNCMs - 1.1.2.203
+05/11/24 13:26:33:344 - TACBrLibNCMs.PrecisaCriptografar(Principal,LogNivel)
+05/11/24 13:26:33:344 - TACBrLibNCMs.PrecisaCriptografar - Feito Result: False
+05/11/24 13:26:33:344 - LIB_ConfigGravarValor(Principal, LogNivel, 4)
+05/11/24 13:26:33:345 - TACBrLibNCMs.PrecisaCriptografar(Principal,LogNivel)
+05/11/24 13:26:33:345 - TACBrLibNCMs.PrecisaCriptografar - Feito Result: False
+05/11/24 13:26:33:345 - TLibNCMsConfig.AjustarValor(tfGravar,Principal,LogNivel,4)
+05/11/24 13:26:33:345 - TLibNCMsConfig.AjustarValor - Feito
+05/11/24 13:26:33:345 - TLibNCMsConfig.AplicarConfiguracoes: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 13:26:33:345 - Travar
+05/11/24 13:26:33:345 - Travar
+05/11/24 13:26:33:346 - TLibNCMsConfig.Gravar: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 13:26:33:347 - TLibNCMsConfig.Gravar - Feito
+05/11/24 13:26:33:347 - Destravar
+05/11/24 13:26:33:347 - TLibNCMsConfig.AplicarConfiguracoes - Feito
+05/11/24 13:26:33:347 - Destravar
+05/11/24 13:26:33:347 -    SetRetorno(0, )
+05/11/24 13:26:33:348 - TACBrLibNCMs.PrecisaCriptografar(Principal,LogPath)
+05/11/24 13:26:33:349 - TACBrLibNCMs.PrecisaCriptografar - Feito Result: False
+05/11/24 13:26:33:350 - LIB_ConfigGravarValor(Principal, LogPath, C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\Log)
+05/11/24 13:26:33:350 - TACBrLibNCMs.PrecisaCriptografar(Principal,LogPath)
+05/11/24 13:26:33:350 - TACBrLibNCMs.PrecisaCriptografar - Feito Result: False
+05/11/24 13:26:33:350 - TLibNCMsConfig.AjustarValor(tfGravar,Principal,LogPath,C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\Log)
+05/11/24 13:26:33:350 - TLibNCMsConfig.AjustarValor - Feito
+05/11/24 13:26:33:351 - TLibNCMsConfig.AplicarConfiguracoes: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 13:26:33:351 - Travar
+05/11/24 13:26:33:351 - Travar
+05/11/24 13:26:33:351 - TLibNCMsConfig.Gravar: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 13:26:33:354 - TLibNCMsConfig.Gravar - Feito
+05/11/24 13:26:33:354 - Destravar
+05/11/24 13:26:33:354 - TLibNCMsConfig.AplicarConfiguracoes - Feito
+05/11/24 13:26:33:354 - Destravar
+05/11/24 13:26:33:354 -    SetRetorno(0, )
+05/11/24 13:26:33:354 - LIB_ConfigGravar()
+05/11/24 13:26:33:354 - Travar
+05/11/24 13:26:33:354 - TLibNCMsConfig.Gravar: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 13:26:33:356 - TLibNCMsConfig.Gravar - Feito
+05/11/24 13:26:33:356 - Destravar
+05/11/24 13:26:33:357 -    SetRetorno(0, )
+05/11/24 13:26:36:655 - NCM_ObterNCMs
+05/11/24 13:26:36:656 - Travar
+05/11/24 13:26:37:184 -    MoverStringParaPChar. StrLen:24, BufLen:256
+05/11/24 13:26:37:184 -    SetRetorno(0, Lista de NCMs atualizada)
+05/11/24 13:26:37:184 - Destravar
+05/11/24 13:26:38:892 - NCM_BaixarLista( C:\temp\NCMs.txt )
+05/11/24 13:26:38:892 - Travar
+05/11/24 13:26:39:583 -    MoverStringParaPChar. StrLen:34, BufLen:256
+05/11/24 13:26:39:583 -    SetRetorno(0, Arquivo salvo em: C:\temp\NCMs.txt)
+05/11/24 13:26:39:598 - Destravar
+05/11/24 13:50:32:115 - TACBrLibNCMs.PrecisaCriptografar(Principal,LogNivel)
+05/11/24 13:50:32:116 - TACBrLibNCMs.PrecisaCriptografar - Feito Result: False
+05/11/24 13:50:32:116 - LIB_ConfigGravarValor(Principal, LogNivel, 4)
+05/11/24 13:50:32:116 - TACBrLibNCMs.PrecisaCriptografar(Principal,LogNivel)
+05/11/24 13:50:32:117 - TACBrLibNCMs.PrecisaCriptografar - Feito Result: False
+05/11/24 13:50:32:117 - TLibNCMsConfig.AjustarValor(tfGravar,Principal,LogNivel,4)
+05/11/24 13:50:32:117 - TLibNCMsConfig.AjustarValor - Feito
+05/11/24 13:50:32:118 - TLibNCMsConfig.AplicarConfiguracoes: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 13:50:32:118 - Travar
+05/11/24 13:50:32:118 - Travar
+05/11/24 13:50:32:119 - TLibNCMsConfig.Gravar: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 13:50:32:120 - TLibNCMsConfig.Gravar - Feito
+05/11/24 13:50:32:121 - Destravar
+05/11/24 13:50:32:121 - TLibNCMsConfig.AplicarConfiguracoes - Feito
+05/11/24 13:50:32:121 - Destravar
+05/11/24 13:50:32:121 -    SetRetorno(0, )
+05/11/24 13:50:32:121 - TACBrLibNCMs.PrecisaCriptografar(Principal,LogPath)
+05/11/24 13:50:32:121 - TACBrLibNCMs.PrecisaCriptografar - Feito Result: False
+05/11/24 13:50:32:122 - LIB_ConfigGravarValor(Principal, LogPath, C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\Log)
+05/11/24 13:50:32:122 - TACBrLibNCMs.PrecisaCriptografar(Principal,LogPath)
+05/11/24 13:50:32:122 - TACBrLibNCMs.PrecisaCriptografar - Feito Result: False
+05/11/24 13:50:32:122 - TLibNCMsConfig.AjustarValor(tfGravar,Principal,LogPath,C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\Log)
+05/11/24 13:50:32:122 - TLibNCMsConfig.AjustarValor - Feito
+05/11/24 13:50:32:122 - TLibNCMsConfig.AplicarConfiguracoes: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 13:50:32:123 - Travar
+05/11/24 13:50:32:123 - Travar
+05/11/24 13:50:32:123 - TLibNCMsConfig.Gravar: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 13:50:32:125 - TLibNCMsConfig.Gravar - Feito
+05/11/24 13:50:32:125 - Destravar
+05/11/24 13:50:32:125 - TLibNCMsConfig.AplicarConfiguracoes - Feito
+05/11/24 13:50:32:125 - Destravar
+05/11/24 13:50:32:125 -    SetRetorno(0, )
+05/11/24 13:50:32:125 - LIB_ConfigGravar()
+05/11/24 13:50:32:126 - Travar
+05/11/24 13:50:32:126 - TLibNCMsConfig.Gravar: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 13:50:32:128 - TLibNCMsConfig.Gravar - Feito
+05/11/24 13:50:32:128 - Destravar
+05/11/24 13:50:32:128 -    SetRetorno(0, )
+05/11/24 14:02:15:138 - TACBrLibNCMs.PrecisaCriptografar(Principal,LogNivel)
+05/11/24 14:02:15:140 - TACBrLibNCMs.PrecisaCriptografar - Feito Result: False
+05/11/24 14:02:15:140 - LIB_ConfigGravarValor(Principal, LogNivel, 4)
+05/11/24 14:02:15:140 - TACBrLibNCMs.PrecisaCriptografar(Principal,LogNivel)
+05/11/24 14:02:15:140 - TACBrLibNCMs.PrecisaCriptografar - Feito Result: False
+05/11/24 14:02:15:140 - TLibNCMsConfig.AjustarValor(tfGravar,Principal,LogNivel,4)
+05/11/24 14:02:15:140 - TLibNCMsConfig.AjustarValor - Feito
+05/11/24 14:02:15:141 - TLibNCMsConfig.AplicarConfiguracoes: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 14:02:15:141 - Travar
+05/11/24 14:02:15:141 - Travar
+05/11/24 14:02:15:141 - TLibNCMsConfig.Gravar: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 14:02:15:144 - TLibNCMsConfig.Gravar - Feito
+05/11/24 14:02:15:144 - Destravar
+05/11/24 14:02:15:144 - TLibNCMsConfig.AplicarConfiguracoes - Feito
+05/11/24 14:02:15:144 - Destravar
+05/11/24 14:02:15:144 -    SetRetorno(0, )
+05/11/24 14:02:15:144 - TACBrLibNCMs.PrecisaCriptografar(Principal,LogPath)
+05/11/24 14:02:15:145 - TACBrLibNCMs.PrecisaCriptografar - Feito Result: False
+05/11/24 14:02:15:145 - LIB_ConfigGravarValor(Principal, LogPath, C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\Log)
+05/11/24 14:02:15:145 - TACBrLibNCMs.PrecisaCriptografar(Principal,LogPath)
+05/11/24 14:02:15:145 - TACBrLibNCMs.PrecisaCriptografar - Feito Result: False
+05/11/24 14:02:15:145 - TLibNCMsConfig.AjustarValor(tfGravar,Principal,LogPath,C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\Log)
+05/11/24 14:02:15:145 - TLibNCMsConfig.AjustarValor - Feito
+05/11/24 14:02:15:145 - TLibNCMsConfig.AplicarConfiguracoes: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 14:02:15:145 - Travar
+05/11/24 14:02:15:146 - Travar
+05/11/24 14:02:15:146 - TLibNCMsConfig.Gravar: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 14:02:15:147 - TLibNCMsConfig.Gravar - Feito
+05/11/24 14:02:15:147 - Destravar
+05/11/24 14:02:15:147 - TLibNCMsConfig.AplicarConfiguracoes - Feito
+05/11/24 14:02:15:147 - Destravar
+05/11/24 14:02:15:147 -    SetRetorno(0, )
+05/11/24 14:02:15:147 - LIB_ConfigGravar()
+05/11/24 14:02:15:147 - Travar
+05/11/24 14:02:15:148 - TLibNCMsConfig.Gravar: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 14:02:15:149 - TLibNCMsConfig.Gravar - Feito
+05/11/24 14:02:15:149 - Destravar
+05/11/24 14:02:15:149 -    SetRetorno(0, )
+05/11/24 14:30:33:720 - TACBrLibNCMs.PrecisaCriptografar(Principal,LogNivel)
+05/11/24 14:30:33:721 - TACBrLibNCMs.PrecisaCriptografar - Feito Result: False
+05/11/24 14:30:33:721 - LIB_ConfigGravarValor(Principal, LogNivel, 4)
+05/11/24 14:30:33:722 - TACBrLibNCMs.PrecisaCriptografar(Principal,LogNivel)
+05/11/24 14:30:33:722 - TACBrLibNCMs.PrecisaCriptografar - Feito Result: False
+05/11/24 14:30:33:723 - TLibNCMsConfig.AjustarValor(tfGravar,Principal,LogNivel,4)
+05/11/24 14:30:33:724 - TLibNCMsConfig.AjustarValor - Feito
+05/11/24 14:30:33:724 - TLibNCMsConfig.AplicarConfiguracoes: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 14:30:33:724 - Travar
+05/11/24 14:30:33:725 - Travar
+05/11/24 14:30:33:725 - TLibNCMsConfig.Gravar: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 14:30:33:728 - TLibNCMsConfig.Gravar - Feito
+05/11/24 14:30:33:728 - Destravar
+05/11/24 14:30:33:728 - TLibNCMsConfig.AplicarConfiguracoes - Feito
+05/11/24 14:30:33:728 - Destravar
+05/11/24 14:30:33:728 -    SetRetorno(0, )
+05/11/24 14:30:33:729 - TACBrLibNCMs.PrecisaCriptografar(Principal,LogPath)
+05/11/24 14:30:33:729 - TACBrLibNCMs.PrecisaCriptografar - Feito Result: False
+05/11/24 14:30:33:729 - LIB_ConfigGravarValor(Principal, LogPath, C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\Log)
+05/11/24 14:30:33:729 - TACBrLibNCMs.PrecisaCriptografar(Principal,LogPath)
+05/11/24 14:30:33:730 - TACBrLibNCMs.PrecisaCriptografar - Feito Result: False
+05/11/24 14:30:33:730 - TLibNCMsConfig.AjustarValor(tfGravar,Principal,LogPath,C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\Log)
+05/11/24 14:30:33:730 - TLibNCMsConfig.AjustarValor - Feito
+05/11/24 14:30:33:730 - TLibNCMsConfig.AplicarConfiguracoes: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 14:30:33:730 - Travar
+05/11/24 14:30:33:730 - Travar
+05/11/24 14:30:33:730 - TLibNCMsConfig.Gravar: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 14:30:33:732 - TLibNCMsConfig.Gravar - Feito
+05/11/24 14:30:33:732 - Destravar
+05/11/24 14:30:33:732 - TLibNCMsConfig.AplicarConfiguracoes - Feito
+05/11/24 14:30:33:732 - Destravar
+05/11/24 14:30:33:732 -    SetRetorno(0, )
+05/11/24 14:30:33:732 - LIB_ConfigGravar()
+05/11/24 14:30:33:733 - Travar
+05/11/24 14:30:33:733 - TLibNCMsConfig.Gravar: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 14:30:33:734 - TLibNCMsConfig.Gravar - Feito
+05/11/24 14:30:33:734 - Destravar
+05/11/24 14:30:33:735 -    SetRetorno(0, )
+05/11/24 15:19:28:623 - TACBrLibNCMs.PrecisaCriptografar(Principal,LogNivel)
+05/11/24 15:19:28:623 - TACBrLibNCMs.PrecisaCriptografar - Feito Result: False
+05/11/24 15:19:28:623 - LIB_ConfigGravarValor(Principal, LogNivel, 4)
+05/11/24 15:19:28:623 - TACBrLibNCMs.PrecisaCriptografar(Principal,LogNivel)
+05/11/24 15:19:28:623 - TACBrLibNCMs.PrecisaCriptografar - Feito Result: False
+05/11/24 15:19:28:623 - TLibNCMsConfig.AjustarValor(tfGravar,Principal,LogNivel,4)
+05/11/24 15:19:28:623 - TLibNCMsConfig.AjustarValor - Feito
+05/11/24 15:19:28:623 - TLibNCMsConfig.AplicarConfiguracoes: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 15:19:28:623 - Travar
+05/11/24 15:19:28:623 - Travar
+05/11/24 15:19:28:623 - TLibNCMsConfig.Gravar: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 15:19:28:623 - TLibNCMsConfig.Gravar - Feito
+05/11/24 15:19:28:623 - Destravar
+05/11/24 15:19:28:623 - TLibNCMsConfig.AplicarConfiguracoes - Feito
+05/11/24 15:19:28:623 - Destravar
+05/11/24 15:19:28:623 -    SetRetorno(0, )
+05/11/24 15:19:28:623 - TACBrLibNCMs.PrecisaCriptografar(Principal,LogPath)
+05/11/24 15:19:28:623 - TACBrLibNCMs.PrecisaCriptografar - Feito Result: False
+05/11/24 15:19:28:623 - LIB_ConfigGravarValor(Principal, LogPath, C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\Log)
+05/11/24 15:19:28:623 - TACBrLibNCMs.PrecisaCriptografar(Principal,LogPath)
+05/11/24 15:19:28:623 - TACBrLibNCMs.PrecisaCriptografar - Feito Result: False
+05/11/24 15:19:28:623 - TLibNCMsConfig.AjustarValor(tfGravar,Principal,LogPath,C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\Log)
+05/11/24 15:19:28:639 - TLibNCMsConfig.AjustarValor - Feito
+05/11/24 15:19:28:639 - TLibNCMsConfig.AplicarConfiguracoes: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 15:19:28:639 - Travar
+05/11/24 15:19:28:639 - Travar
+05/11/24 15:19:28:639 - TLibNCMsConfig.Gravar: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 15:19:28:639 - TLibNCMsConfig.Gravar - Feito
+05/11/24 15:19:28:639 - Destravar
+05/11/24 15:19:28:639 - TLibNCMsConfig.AplicarConfiguracoes - Feito
+05/11/24 15:19:28:639 - Destravar
+05/11/24 15:19:28:639 -    SetRetorno(0, )
+05/11/24 15:19:28:639 - LIB_ConfigGravar()
+05/11/24 15:19:28:639 - Travar
+05/11/24 15:19:28:639 - TLibNCMsConfig.Gravar: C:\Projetos\NCMs\Demo\ACBrLibNCM.Demo\ACBrLib.ini
+05/11/24 15:19:28:639 - TLibNCMsConfig.Gravar - Feito
+05/11/24 15:19:28:639 - Destravar
+05/11/24 15:19:28:639 -    SetRetorno(0, )
